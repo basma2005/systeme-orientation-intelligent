@@ -1,0 +1,45 @@
+Domaine,Sous-domaine,École,Ville,Type,Accréditation,Durée_études,Coût,Admission,Spécialités,Lien
+Lettres/Sciences Humaines,Philosophie,Faculté des Lettres Mohammed V,Rabat,Public,État,4 ans,Faible,Bac,"Philosophie, Sociologie",http://www.flm.ma
+Lettres/Sciences Humaines,Histoire,Faculté des Lettres Aïn Chock,Casablanca,Public,État,4 ans,Faible,Bac,"Histoire Civilisation, Archéologie",https://www.flac.ma
+Lettres/Sciences Humaines,Langues,Faculté des Lettres Dhar El Mahraz,Fès,Public,État,4 ans,Faible,Bac,"Linguistique, Traduction",http://www.flm.ma
+Lettres/Sciences Humaines,Psychologie,Université Internationale de Rabat,Rabat,Privé,International,5 ans,Élevé,Dossier,Psychologie Clinique,https://www.uir.ma
+Recherche/Sciences,Physique,Faculté des Sciences Rabat,Rabat,Public,État,5 ans,Faible,Concours,Physique Quantique,https://www.fsr.ac.ma
+Recherche/Sciences,Biologie,Faculté des Sciences Ben M'sik,Casablanca,Public,État,5 ans,Faible,Concours,Biotechnologie,https://www.fsbm.ma
+Recherche/Sciences,Mathématiques,École Normale Supérieure,Rabat,Public,État,5 ans,Faible,Concours,Mathématiques Appliquées,http://www.enssup.gov.ma
+Recherche/Sciences,Chimie,Faculté des Sciences Tétouan,Tétouan,Public,État,5 ans,Faible,Concours,Chimie Industrielle,http://www.fst.ac.ma
+Communication/Marketing,Publicité,ISIC,Rabat,Public,État,3 ans,Modéré,Concours,Stratégie Publicitaire,https://www.isic.ma
+Communication/Marketing,Journalisme,ESJC,Casablanca,Privé,International,3 ans,Élevé,Dossier,Journalisme Digital,https://www.esjc.ma
+Communication/Marketing,Relations Publiques,HEM,Rabat,Privé,National,4 ans,Élevé,Dossier,Communication d'Entreprise,https://www.hem.ac.ma
+Santé/Social,Médecine,Faculté de Médecine de Marrakech,Marrakech,Public,État,7 ans,Faible,Concours,Médecine Générale,https://www.uca.ma
+Santé/Social,Infirmière,École Supérieure de Santé,Rabat,Public,État,3 ans,Modéré,Concours,Soins Infirmiers,http://www.ess.ma
+Santé/Social,Psychologie,Université Mundiapolis,Casablanca,Privé,International,5 ans,Élevé,Dossier,Psychologie Sociale,https://www.mundiapolis.ma
+Santé/Social,Orthophonie,École Nationale de Santé Publique,Rabat,Public,État,4 ans,Modéré,Concours,Rééducation,http://www.ensp.ma
+Technologie/Technique,Génie Informatique,ENSIAS,Rabat,Public,État,5 ans,Faible,Concours,"IA, Big Data",https://www.ensias.ma
+Technologie/Technique,Génie Civil,École Hassania TP,Casablanca,Public,État,5 ans,Faible,Concours,"BTP, Génie Urbain",https://www.ehtp.ac.ma
+Technologie/Technique,Électronique,ENSEM,Casablanca,Public,État,5 ans,Faible,Concours,Robotique,https://ensem.um5.ac.ma
+Divers,Études Internationales,Al Akhawayn,Ifrane,Privé,International,4 ans,Très élevé,Dossier,Relations Internationales,https://www.aui.ma
+Divers,Économie Sociale,ENCG Settat,Settat,Public,État,5 ans,Faible,Concours,Économie Solidaire,https://www.encgs.ma
+Informatique,Développement Logiciel,EST Fès,Fès,Public,État,2 ans,Faible,Bac+2,"Développement Web, Mobile",https://www.uit.ac.ma
+Informatique,Cybersécurité,UM6P,Benguerir,Privé,International,5 ans,Élevé,Concours,Sécurité des Systèmes,https://www.um6p.ma
+Informatique,Big Data,ENSIAS,Rabat,Public,État,5 ans,Faible,Concours,"Big Data, Data Science",https://www.ensias.um5.ac.ma
+Informatique,IA,INPT,Rabat,Public,État,5 ans,Modéré,Concours,Intelligence Artificielle,https://www.inpt.ac.ma
+Ingénierie,Génie Mécanique,ENSAM Meknès,Meknès,Public,État,5 ans,Faible,Concours,Conception Mécanique,https://www.ensam-umi.ac.ma
+Ingénierie,Génie Électrique,EMI,Rabat,Public,État,5 ans,Faible,Concours,Électrotechnique,https://www.emi.ac.ma
+Ingénierie,Génie Industriel,ENSA Agadir,Agadir,Public,État,5 ans,Faible,Concours,"Productique, Logistique",https://www.ensa-agadir.ac.ma
+Ingénierie,Mécatronique,EST Casablanca,Casablanca,Public,État,3 ans,Faible,Concours,"Robotique, Automatismes",https://www.estc.ac.ma
+Commerce,Gestion,ENCG Casablanca,Casablanca,Public,État,5 ans,Faible,Concours,"Comptabilité, Finance",https://www.encg.ma
+Commerce,Marketing,HEM,Rabat,Privé,National,4 ans,Élevé,Dossier,Stratégie Marketing,https://www.hem.ac.ma
+Commerce,Finance,ISCAE,Casablanca,Public,État,5 ans,Faible,Concours,"Audit, Contrôle",https://www.groupeiscae.ma
+Commerce,Management,UIR,Rabat,Privé,International,5 ans,Élevé,Dossier,Management des Organisations,https://www.uir.ac.ma
+Arts,Design,ESAV,Marrakech,Privé,International,4 ans,Élevé,Dossier,Design Graphique,https://www.esavmarrakech.org
+Arts,Cinéma,ISMAC,Rabat,Public,État,3 ans,Faible,Concours,"Réalisation, Montage",https://www.ismac.ac.ma
+Arts,Musique,Institut Supérieur de Musique,Rabat,Public,État,3 ans,Faible,Concours,Interprétation musicale,https://www.ism.ma
+Arts,Arts plastiques,INBA Tétouan,Tétouan,Public,État,4 ans,Faible,Concours,"Peinture, Sculpture",https://www.inba.ac.ma
+Droit,Droit Public,Faculté de Droit Rabat,Rabat,Public,État,3 ans,Faible,Bac,Institutions publiques,https://www.fsr.ac.ma
+Droit,Droit Privé,Faculté de Droit Casablanca,Casablanca,Public,État,3 ans,Faible,Bac,Droit des affaires,https://www.fdc.ma
+Droit,Droit International,Université Al Akhawayn,Ifrane,Privé,International,4 ans,Très élevé,Dossier,Relations internationales,https://www.aui.ma
+Droit,Sciences Politiques,UIR,Rabat,Privé,International,5 ans,Élevé,Dossier,Science politique,https://www.uir.ac.ma
+Architecture,Architecture,ENA Rabat,Rabat,Public,État,6 ans,Faible,Concours,Architecture urbaine,https://www.ena.ma
+Architecture,Urbanisme,UIR Rabat,Rabat,Privé,International,5 ans,Élevé,Dossier,Urbanisme durable,https://www.uir.ac.ma
+Architecture,Design d’Espace,ESST Tanger,Tanger,Privé,National,3 ans,Modéré,Dossier,Aménagement intérieur,https://www.esst.ma
+Architecture,Patrimoine,École Nationale d'Architecture de Fès,Fès,Public,État,6 ans,Faible,Concours,Conservation patrimoniale,https://www.ena.ac.ma
